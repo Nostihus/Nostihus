@@ -7,7 +7,7 @@ I like to learn new things and share my knowledge with others. In my GitHub you 
 <h3 align="center">A passionate developer from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neigood&label=Profile%20views&color=0e75b6&style=flat" alt="neigood" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nostihus&label=Profile%20views&color=0e75b6&style=flat" alt="Nostihus" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, react.**
 
