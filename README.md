@@ -4,7 +4,7 @@ Hello, my name is [**Ricardo Forero**](https://www.linkedin.com/in/ricardo-forer
 
 I like to learn new things and share my knowledge with others. In my GitHub you can find some of my personal and collaborative projects, where I apply what I'm learning and experiment with new ideas. I hope you like my work and that we can connect in the future.
 
-<h3 align="center">A passionate developer from Chile</h3>
+<h3 align="center">A passionate developer from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/X8854xxuQ_EAAAAd/destroy-code-mad.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neigood&label=Profile%20views&color=0e75b6&style=flat" alt="neigood" /> </p>
